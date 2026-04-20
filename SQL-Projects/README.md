@@ -2,7 +2,7 @@
 
 This folder contains SQL-based projects focused on data cleaning and exploratory data analysis.
 
-📊 Projects
+## Projects
 
 ### COVID-19 Data Exploration
 - Analysed global COVID-19 data to evaluate infection rates, death rates, and vaccination trends  
